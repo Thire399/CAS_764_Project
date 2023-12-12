@@ -5,8 +5,15 @@ __pycache__/
 
 # C extensions
 *.so
-
+**.png
+**.zip
+**.drawio
+**/Final_Data/**
 # Distribution / packaging
+**/mimic**/**
+**.pptx
+**.pdf
+**.code-workspace
 .Python
 build/
 develop-eggs/
